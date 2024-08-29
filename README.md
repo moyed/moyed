@@ -1,6 +1,7 @@
 # Hi there, I'm Moyed Ansari 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nasir123&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=moyed&color=blue) ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=moyed)
+
 
 ## About Me
 
@@ -30,10 +31,18 @@ I'm a software engineering manager at Digital Ocean with 13 years of experience.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moyedansari/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moyedansari@gmail.com)
 
-## GitHub Achievements
+## GitHub Contribution
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=moyed&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moyed&layout=compact&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moyed&show_icons=true&theme=dark)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=moyed)
+### 🏆 My GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=moyed&theme=darkhub&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 💬 Let's Collaborate!
+I'm always open to new opportunities and collaborations. If you have a project or idea you'd like to discuss, don’t hesitate to reach out!
+
+
+Thanks for visiting my profile! 🌟
