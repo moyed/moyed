@@ -5,7 +5,7 @@
 
 ## About Me
 
-I'm a software engineering manager at Digital Ocean with 13 years of experience. I specialize in Laravel, PHP, databases, Linux, Docker, and more. I'm passionate about exploring AI, Developer Experience & Advocacy, and software architecture.
+I'm a **Software Engineering Manager** at [DigitalOcean](https://digitalocean.com) with 13 years of experience. I specialize in Laravel, PHP, databases, Linux, Docker, and more. I lead teams, mentor developers, and advocate for cloud and developer tools. I'm passionate about exploring AI, Developer Experience & Advocacy, and software architecture.
 
 ## Skills
 
@@ -31,6 +31,22 @@ I'm a software engineering manager at Digital Ocean with 13 years of experience.
 ![Digital Ocean](https://img.shields.io/badge/DigitalOcean-2496ED?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Vultr](https://img.shields.io/badge/Vultr-F05032?style=for-the-badge&logo=vultr&logoColor=white)
 
+## 🚀 Learning Roadmap
+- [ ] **Deep Learning with Python** (Coursera)
+- [ ] **Python in container** (LinkedIn)
+- [ ] **AWS AI Practitioner AIF-C01 exam**
+- [ ] **Certified Kubernetes Application Developer)** (CKAD)
+- [ ] **Github Certification** (LinkedIn)
+- [ ] **Agile Certification)** (LinkedIn)
+
+
+## 💡 How I Work
+
+- **Code Reviews**: I prioritize clean, well-documented code that scales.
+- **Collaboration**: Always excited to work with developers from diverse backgrounds and disciplines.
+- **Learning**: I maintain a growth mindset and continuously upskill through certifications and projects.
+
+
 
 ## Get in Touch
 
@@ -47,10 +63,6 @@ I'm a software engineering manager at Digital Ocean with 13 years of experience.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=moyed&theme=darkhub&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-### 🌱 Currently Learning:
-- **Python for AI Development**: Expanding into AI by building applications using Python, Deep Learning, and cloud AI services.
-- **Kubernetes & CI/CD**: Learning about scalable infrastructure, Kubernetes certification, and DevOps automation.
 
 ### 🧑‍💼 Open to:
 - **Consulting and long-term Laravel/API development projects**
