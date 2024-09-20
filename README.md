@@ -20,7 +20,15 @@ I'm a software engineering manager at Digital Ocean with 13 years of experience.
 ### Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PostMan](https://img.shields.io/badge/postman-232F3E?style=for-the-badge&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-2496ED?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+### Cloud
+![AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazon&logoColor=white)
+![Digital Ocean](https://img.shields.io/badge/DigitalOcean-2496ED?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Vultr](https://img.shields.io/badge/Vultr-F05032?style=for-the-badge&logo=vultr&logoColor=white)
+
 
 ### Other Skills
 - Databases
