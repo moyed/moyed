@@ -16,6 +16,8 @@ I'm a software engineering manager at Digital Ocean with 13 years of experience.
 
 ### Frameworks
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Lumen](https://img.shields.io/badge/lumen-3776AB?style=for-the-badge&logo=lumen&logoColor=white)
+
 
 ### Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -29,10 +31,6 @@ I'm a software engineering manager at Digital Ocean with 13 years of experience.
 ![Digital Ocean](https://img.shields.io/badge/DigitalOcean-2496ED?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Vultr](https://img.shields.io/badge/Vultr-F05032?style=for-the-badge&logo=vultr&logoColor=white)
 
-
-### Other Skills
-- Databases
-- Observability
 
 ## Get in Touch
 
@@ -48,6 +46,17 @@ I'm a software engineering manager at Digital Ocean with 13 years of experience.
 ### 🏆 My GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=moyed&theme=darkhub&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+### 🌱 Currently Learning:
+- **Python for AI Development**: Expanding into AI by building applications using Python, Deep Learning, and cloud AI services.
+- **Kubernetes & CI/CD**: Learning about scalable infrastructure, Kubernetes certification, and DevOps automation.
+
+### 🧑‍💼 Open to:
+- **Consulting and long-term Laravel/API development projects**
+- **Collaborating on AI, ML, and Python-related projects**
+- **Developer Advocacy and mentorship opportunities**
+
 
 ## 💬 Let's Collaborate!
 I'm always open to new opportunities and collaborations. If you have a project or idea you'd like to discuss, don’t hesitate to reach out!
