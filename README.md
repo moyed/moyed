@@ -37,7 +37,7 @@ I'm a **Software Engineering Manager** at [DigitalOcean](https://digitalocean.co
 - [ ] **AWS AI Practitioner AIF-C01 exam**
 - [ ] **Certified Kubernetes Application Developer)** (CKAD)
 - [ ] **Github Certification** (LinkedIn)
-- [ ] **Agile Certification)** (LinkedIn)
+- [ ] **Agile Certification** (LinkedIn)
 
 
 ## 💡 How I Work
