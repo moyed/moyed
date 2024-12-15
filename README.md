@@ -32,9 +32,7 @@ I'm a **Software Engineering Manager** at [DigitalOcean](https://digitalocean.co
 ![Vultr](https://img.shields.io/badge/Vultr-F05032?style=for-the-badge&logo=vultr&logoColor=white)
 
 ## 🚀 Learning Roadmap
-- [ ] **Deep Learning with Python** (Coursera)
 - [ ] **Python in container** (LinkedIn)
-- [ ] **AWS AI Practitioner AIF-C01 exam**
 - [ ] **Certified Kubernetes Application Developer)** (CKAD)
 - [ ] **Github Certification** (LinkedIn)
 - [ ] **Agile Certification** (LinkedIn)
