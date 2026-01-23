@@ -17,23 +17,47 @@ I'm a **Software Engineering Manager** at [DigitalOcean](https://digitalocean.co
 ### Frameworks
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Lumen](https://img.shields.io/badge/lumen-3776AB?style=for-the-badge&logo=lumen&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 
 ### Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PostMan](https://img.shields.io/badge/postman-232F3E?style=for-the-badge&logo=postman&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-2496ED?style=for-the-badge&logo=mysql&logoColor=white)
-
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Supervisor](https://img.shields.io/badge/Supervisor-3C3C3C?style=for-the-badge&logo=linux&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### Cloud
-![AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazon&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Digital Ocean](https://img.shields.io/badge/DigitalOcean-2496ED?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Vultr](https://img.shields.io/badge/Vultr-F05032?style=for-the-badge&logo=vultr&logoColor=white)
 
+
+## 🤖 AI & GenAI Focus
+- Building **AI-powered SaaS products** (content automation, faceless YouTube, social media bots)
+- Hands-on with **LLMs (OpenAI, Gemini, Claude)**
+- Designing **agent-based systems** (review agents, posting agents, QA agents)
+- Using AI in **engineering workflows** (code review, PR analysis, incident triage)
+
+## 🧠 System Design & Platform Engineering
+- Event-driven architectures (queues, retries, DLQs)
+- Large-scale **billing & reconciliation systems**
+- Multi-cloud integrations (AWS, GCP, DO, Vultr, Linode)
+- Designing fault-tolerant microservices
+
+## 🚧 Side Projects
+- **Faceless YouTube Shorts Generator** (AI + automation)
+- **AI-powered Social Media Posting SaaS**
+- Personal “Digital FTE” concept (AI agents for daily work)
+  
+
 ## 🚀 Learning Roadmap
-- [ ] **Certified Kubernetes Application Developer)** (CKAD)
-- [ ] **Github Certification** (LinkedIn)
+- [ ] **Certified Kubernetes Application Developer (CKAD)**
+- [ ] **Github Certification** (GitHub)
 - [ ] **Agile Certification** (Scrum Master)
 
 
@@ -52,14 +76,13 @@ I'm a **Software Engineering Manager** at [DigitalOcean](https://digitalocean.co
 
 ## GitHub Contribution
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=moyed&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=moyed&theme=dark&cacheBust=2026)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moyed&layout=compact&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moyed&show_icons=true&theme=dark)
 
 ### 🏆 My GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=moyed&theme=darkhub&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=moyed&theme=onedark&no-frame=true&margin-w=4&cacheBust=2026)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🧑‍💼 Open to:
 - **Consulting and long-term Laravel/API development projects**
