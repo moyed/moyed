@@ -5,7 +5,7 @@
 
 ## About Me
 
-I'm a **Software Engineering Manager** at [DigitalOcean](https://digitalocean.com) with 13 years of experience. I specialize in Laravel, PHP, databases, Linux, Docker, and more. I lead teams, mentor developers, and advocate for cloud and developer tools. I'm passionate about exploring AI, Developer Experience & Advocacy, and software architecture.
+I'm a **Software Engineering Manager** at [DigitalOcean](https://digitalocean.com) with 15 years of experience. I specialize in Laravel, PHP, databases, Linux, Docker, and more. I lead teams, mentor developers, and advocate for cloud and developer tools. I'm passionate about exploring AI, Developer Experience & Advocacy, and software architecture.
 
 ## Skills
 
@@ -52,6 +52,8 @@ I'm a **Software Engineering Manager** at [DigitalOcean](https://digitalocean.co
 ## 🚧 Side Projects
 - **Faceless YouTube Shorts Generator** (AI + automation)
 - **AI-powered Social Media Posting SaaS**
+- **Churnome** AI Churn Detector
+- FlashLead AI 
 - Personal “Digital FTE” concept (AI agents for daily work)
   
 
